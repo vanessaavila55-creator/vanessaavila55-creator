@@ -63,8 +63,6 @@ Primeros proyectos orientados al desarrollo frontend, trabajando con estructura 
 
 ### 🖼️ Captura del proyecto
 
-> **Aquí insertar captura de pantalla**
-
 `![Captura del proyecto](capturas/M2_wallet.png)`
 
 ### 🔗 Repositorio
@@ -90,8 +88,6 @@ Durante este módulo se trabajaron conceptos como:
 * Operaciones mediante JavaScript
 
 ### 🖼️ Captura del proyecto
-
-> **Aquí insertar captura de pantalla**
 
 `![Captura del proyecto](capturas/M3_calculadora.png)`
 
@@ -121,8 +117,6 @@ El proyecto incorpora conceptos como:
 * Librerías externas
 
 ### 🖼️ Captura del proyecto
-
-> **Aquí insertar captura de pantalla**
 
 `![Captura del proyecto](capturas/M4_tareas.png)`
 
@@ -156,8 +150,6 @@ Entre los conceptos trabajados se encuentran:
 
 ### 🖼️ Captura del proyecto
 
-> **Aquí insertar captura de pantalla**
-
 `![Captura del proyecto](capturas/M6_CRUD.png)`
 
 ### 🔗 Repositorio
@@ -189,8 +181,6 @@ El proyecto permite trabajar con diferentes entidades y sus relaciones, además 
 * Persistencia de datos
 
 ### 🖼️ Captura del proyecto
-
-> **Aquí insertar captura de pantalla**
 
 `![Captura del proyecto](capturas/M7_ventas.png)`
 
@@ -224,8 +214,6 @@ El proyecto incluye:
 * Respuestas estructuradas de la API
 
 ### 🖼️ Captura del proyecto
-
-> **Aquí insertar captura de pantalla**
 
 `![Captura del proyecto](capturas/M8_publicaciones.png)`
 
