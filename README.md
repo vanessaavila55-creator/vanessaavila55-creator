@@ -10,7 +10,7 @@ Cada proyecto representa una etapa de aprendizaje y permite observar mi evoluci�
 
 ## 👩🏻‍💻 Sobre mí
 
-Soy estudiante de desarrollo web, con interés en seguir fortaleciendo mis conocimientos en programación y desarrollo de aplicaciones.
+Me desempeño en el área del desarrollo web, con interés en seguir fortaleciendo mis conocimientos en programación y desarrollo de aplicaciones.
 
 Durante mi formación he trabajado tanto en el desarrollo **frontend** como **backend**, incorporando progresivamente nuevas tecnologías y herramientas.
 
@@ -65,11 +65,11 @@ Primeros proyectos orientados al desarrollo frontend, trabajando con estructura 
 
 > **Aquí insertar captura de pantalla**
 
-`![Captura del proyecto](ruta/a/tu/captura.png)`
+`![Captura del proyecto](M2_wallet.png)`
 
 ### 🔗 Repositorio
 
-[Ver proyecto en GitHub](URL_DEL_REPOSITORIO)
+[Ver proyecto en GitHub](https://github.com/vanessaavila55-creator/sence_proyecto_wallet.git)
 
 ---
 
@@ -93,11 +93,11 @@ Durante este módulo se trabajaron conceptos como:
 
 > **Aquí insertar captura de pantalla**
 
-`![Captura del proyecto](ruta/a/tu/captura.png)`
+`![Captura del proyecto](M3_calculadora.png)`
 
 ### 🔗 Repositorio
 
-[Ver proyecto en GitHub](URL_DEL_REPOSITORIO)
+[Ver proyecto en GitHub](https://github.com/vanessaavila55-creator/m3_proyecto_calculadora.git)
 
 ---
 
@@ -124,11 +124,11 @@ El proyecto incorpora conceptos como:
 
 > **Aquí insertar captura de pantalla**
 
-`![Captura del proyecto](ruta/a/tu/captura.png)`
+`![Captura del proyecto](M4_tareas.png)`
 
 ### 🔗 Repositorio
 
-[Ver proyecto en GitHub](URL_DEL_REPOSITORIO)
+[Ver proyecto en GitHub](https://github.com/vanessaavila55-creator/m4_proyecto_tareas.git)
 
 ---
 
@@ -158,11 +158,11 @@ Entre los conceptos trabajados se encuentran:
 
 > **Aquí insertar captura de pantalla**
 
-`![Captura del proyecto](ruta/a/tu/captura.png)`
+`![Captura del proyecto](M6_CRUD.png)`
 
 ### 🔗 Repositorio
 
-[Ver proyecto en GitHub](URL_DEL_REPOSITORIO)
+[Ver proyecto en GitHub](https://github.com/vanessaavila55-creator/m6_proyecto_crudUsuarios.git)
 
 ---
 
@@ -192,11 +192,11 @@ El proyecto permite trabajar con diferentes entidades y sus relaciones, además 
 
 > **Aquí insertar captura de pantalla**
 
-`![Captura del proyecto](ruta/a/tu/captura.png)`
+`![Captura del proyecto](M7_ventas.png)`
 
 ### 🔗 Repositorio
 
-[Ver proyecto en GitHub](URL_DEL_REPOSITORIO)
+[Ver proyecto en GitHub](https://github.com/vanessaavila55-creator/m7_proyecto_gestorVentas.git)
 
 ---
 
@@ -227,11 +227,11 @@ El proyecto incluye:
 
 > **Aquí insertar captura de pantalla**
 
-`![Captura del proyecto](ruta/a/tu/captura.png)`
+`![Captura del proyecto](M8_publicaciones.png)`
 
 ### 🔗 Repositorio
 
-[Ver proyecto en GitHub](URL_DEL_REPOSITORIO)
+[Ver proyecto en GitHub](https://github.com/vanessaavila55-creator/m8_proyecto_publicaciones.git)
 
 ---
 
@@ -240,24 +240,6 @@ El proyecto incluye:
 Este repositorio corresponde al portafolio digital desarrollado para reunir y presentar los proyectos realizados durante mi formación.
 
 El objetivo es centralizar los trabajos realizados y facilitar el acceso a cada uno de ellos desde un único lugar.
-
-### 🖼️ Captura del portafolio
-
-> **Aquí insertar captura de pantalla**
-
-`![Captura del portafolio](ruta/a/tu/captura.png)`
-
----
-
-## 🟨 Módulo 10 — Perfil profesional y búsqueda laboral
-
-Durante este módulo se trabajaron aspectos relacionados con la incorporación al mundo laboral y la presentación profesional de las habilidades adquiridas durante la formación.
-
-### 🖼️ Evidencia
-
-> **Aquí insertar captura de pantalla**
-
-`![Captura](ruta/a/tu/captura.png)`
 
 ---
 
@@ -302,7 +284,7 @@ Entre mis objetivos se encuentran:
 
 ## 📫 Contacto
 
-**GitHub:** [Mi perfil de GitHub](URL_DE_TU_PERFIL)
+**GitHub:** [Vanessa Avila](https://github.com/vanessaavila55-creator)
 
 ---
 
