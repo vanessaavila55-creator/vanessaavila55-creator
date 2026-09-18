@@ -63,7 +63,7 @@ Primeros proyectos orientados al desarrollo frontend, trabajando con estructura 
 
 ### 🖼️ Captura del proyecto
 
-`![Captura del proyecto](capturas/M2_wallet.png)`
+![Captura del proyecto](capturas/M2_wallet.png)
 
 ### 🔗 Repositorio
 
@@ -89,7 +89,7 @@ Durante este módulo se trabajaron conceptos como:
 
 ### 🖼️ Captura del proyecto
 
-`![Captura del proyecto](capturas/M3_calculadora.png)`
+![Captura del proyecto](capturas/M3_calculadora.png)
 
 ### 🔗 Repositorio
 
@@ -118,7 +118,7 @@ El proyecto incorpora conceptos como:
 
 ### 🖼️ Captura del proyecto
 
-`![Captura del proyecto](capturas/M4_tareas.png)`
+![Captura del proyecto](capturas/M4_tareas.png)
 
 ### 🔗 Repositorio
 
@@ -150,7 +150,7 @@ Entre los conceptos trabajados se encuentran:
 
 ### 🖼️ Captura del proyecto
 
-`![Captura del proyecto](capturas/M6_CRUD.png)`
+![Captura del proyecto](capturas/M6_CRUD.png)
 
 ### 🔗 Repositorio
 
@@ -182,7 +182,7 @@ El proyecto permite trabajar con diferentes entidades y sus relaciones, además 
 
 ### 🖼️ Captura del proyecto
 
-`![Captura del proyecto](capturas/M7_ventas.png)`
+![Captura del proyecto](capturas/M7_ventas.png)
 
 ### 🔗 Repositorio
 
@@ -215,7 +215,7 @@ El proyecto incluye:
 
 ### 🖼️ Captura del proyecto
 
-`![Captura del proyecto](capturas/M8_publicaciones.png)`
+![Captura del proyecto](capturas/M8_publicaciones.png)
 
 ### 🔗 Repositorio
 
